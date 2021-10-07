@@ -1,0 +1,3 @@
+[submodule "dotNetCore"]
+	path = dotNetCore
+	url = https://github.com/hayleyBillingham/dotNetCore.git
