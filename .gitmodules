@@ -1,0 +1,3 @@
+[submodule ".netcore"]
+	path = .netcore
+	url = https://github.com/hayleyBillingham/.netcore
