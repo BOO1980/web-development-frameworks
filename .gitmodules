@@ -1,0 +1,3 @@
+[submodule "nuxt.js"]
+	path = nuxt.js
+	url = https://github.com/hungrybeargaming/nuxt.js.git
